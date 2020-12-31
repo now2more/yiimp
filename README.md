@@ -3,7 +3,7 @@
 ### This fork of YiiMP is designed to work with Dirty Harry Yiimp Server Installer program.
 ### Trying to install this on a server not built by this installer will cause crashes !
 
-#### Please go to https://github.com/DirtyHarryDev/Yiimp-Server-Installer for the installer.
+#### Please go to https://github.com/now2more/Yiimp-Server-Installer for the installer.
 
 ## Changes to this fork include but not limited to:
 
